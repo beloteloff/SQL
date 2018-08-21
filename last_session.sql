@@ -1,3 +1,5 @@
+/*upd.  https://blog.modeanalytics.com/finding-user-sessions-sql/   */
+
 with watchers as (
 SELECT
 distinct wi_id as watchers_id
